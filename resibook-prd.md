@@ -125,7 +125,7 @@ The following are explicitly deferred to keep v1 focused and shippable:
 
 ![Resibook competitive positioning map](./positioning-map.png)
 
-![Resibook feature comparison matrix](./feature-matrix.png)
+<!--![Resibook feature comparison matrix](./feature-matrix.png) !-->
 
 | | Resibook | HomeZada | HomeBinder | HomeNog | Homer | Thumbtack / Angi |
 |---|---|---|---|---|---|---|
