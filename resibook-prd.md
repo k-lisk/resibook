@@ -305,6 +305,21 @@ Persistent footer note, every step: "Your personal info stays private — always
 
 *For new homeowners who inherit a home full of unknowns, Resibook is the living digital record that turns a house into a documented asset — starting with your inspection report. Unlike HomeZada, which overwhelms homeowners with complexity and a $65–100/year paywall, Resibook is free to use, simple to start, and gets smarter the longer you own your home.*
 
+### D: Product Screens
+
+The following screens were produced via Claude Design as high-fidelity mockups illustrating the core user journey.
+
+**01 — Onboarding: Your Property (Step 1 of 5)**
+![Resibook Onboarding - Property](./screen-01-onboarding-property.png)
+
+**02 — Onboarding: Inspection Report Import (Step 3 of 5)**
+![Resibook Onboarding - Import](./screen-02-onboarding-import.png)
+
+**03 — Home Dashboard**
+![Resibook Home Dashboard](./screen-03-home-dashboard.png)
+
+**04 — Shareable Seller Profile**
+![Resibook Shareable Profile](./screen-04-shareable-profile.png)
 ---
 
 *This document was developed as part of a Senior PM portfolio project demonstrating marketplace monetization strategy, consumer product positioning, and B2B revenue model design. Domain expertise: PropTech, marketplace advertising, conversion funnel optimization.*
