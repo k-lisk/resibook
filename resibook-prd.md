@@ -308,16 +308,16 @@ Persistent footer note, every step: "Your personal info stays private — always
 ### D: Product Screens
 
 The following screens were produced via Claude Design as high-fidelity mockups illustrating the core user journey.
-
+---
 **01 — Onboarding: Your Property (Step 1 of 5)**
 ![Resibook Onboarding - Property](./screen-01-onboarding-property.png)
-
+---
 **02 — Onboarding: Inspection Report Import (Step 3 of 5)**
 ![Resibook Onboarding - Import](./screen-02-onboarding-import.png)
-
+---
 **03 — Home Dashboard**
 ![Resibook Home Dashboard](./screen-03-home-dashboard.png)
-
+---
 **04 — Shareable Seller Profile**
 ![Resibook Shareable Profile](./screen-04-shareable-profile.png)
 ---
