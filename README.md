@@ -12,6 +12,12 @@ New homebuyers inherit a house full of unknowns. Sellers can't prove the value o
 
 **The product is free for homeowners.** Revenue comes from a B2B vertical ad marketplace — the first of its kind connecting paint, HVAC, and appliance brands directly to verified, purchase-intent-rich home data.
 
+## Product Screens
+
+| Onboarding | Inspection Import | Dashboard | Shareable Profile |
+|---|---|---|---|
+| ![Onboarding](./screen-01-onboarding-property.png) | ![Import](./screen-02-onboarding-import.png) | ![Dashboard](./screen-03-home-dashboard.png) | ![Profile](./screen-04-shareable-profile.png) |
+
 ## What's in This Repo
 
 | Document | What It Covers |
